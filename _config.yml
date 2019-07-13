@@ -85,8 +85,8 @@ search:
 deploy: 
   type: git
   repository: 
-    git@git.dev.tencent.com:orion545/orion545.coding.me.git
-    git@github.com:Orion545/orion545.github.io.git
+    coding: git@git.dev.tencent.com:orion545/orion545.coding.me.git
+    github: git@github.com:Orion545/orion545.github.io.git
   branch: master
 
 # hexo-filter-plugin (https://github.com/Jamling/hexo-filter-highlight) config 
