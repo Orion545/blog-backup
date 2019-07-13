@@ -3,7 +3,7 @@ title: TOFEL Training 5/26
 mathjax: true
 date: 2019-07-13 15:48:23
 tags: TOFEL
-catergories: English
+categories: English
 ---
 # Material Used:
 
