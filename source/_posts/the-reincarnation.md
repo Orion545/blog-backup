@@ -31,9 +31,8 @@ mathjax: true
 
 于是又想起了14那年，为自己写下的箴言：
 
-```markdown
-“Even the world forsaked you, a contribution won't be forgotten by all.” 
-```
+> “Even the world forsaked you, a contribution won't be forgotten by all.” 
+
 
 或许当年只是为了自己的中二和莽撞找个借口，但是今天再看，确是一份难能可贵的远见
 
