@@ -15,6 +15,8 @@ categories: reflection
 
 > 呵，原来我也有说出AFO的这一天啊，根本没想到这个现实，会来的这么快
 
+<!--more-->
+
 > AFO？当然是不想AFO的
 
 > 那怎么办呢？
