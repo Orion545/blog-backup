@@ -1,7 +1,7 @@
 ---
 title: 临战
 mathjax: true
-date: 2019-12-02 00:17:10
+date: 2019-11-16 23:48:09
 tags: 
 - OI memories
 categories: reflection
@@ -46,6 +46,8 @@ categories: reflection
 > ——即使驱使我前进的，是恐惧害怕甚至懒惰
 
 > ——我仍然要带着这满身的伤痕，走下去
+
+> reference: [My Cnblogs](https://www.cnblogs.com/dedicatus545/p/9974109.html)
 
 去年的我尚能呐喊出这些文字，可我现在又能做什么呢？OIer不会死亡，他们只是停留在历史的礁石上，在记忆的镜面边缘徘徊，看着镜子一块块碎裂——
 
